@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "The direct URL to the decrypted YouTube ipa"
-        default: ""
+        default: "https://drive.google.com/file/d/1zGSlHRgbgot2ZeDaSQzhMNDyUPtUJaIS/view?usp=sharing"
         required: true
         type: string
       bundle_id:
