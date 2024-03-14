@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "The direct URL to the decrypted YouTube ipa"
-        default: "https://drive.google.com/file/d/1zGSlHRgbgot2ZeDaSQzhMNDyUPtUJaIS/view?usp=sharing"
+        default: "https://archive.org/details/you-tube-watch-listen-stream-v-19.10.5-univ-pi-fw-lp-64bit-os-140-ok-17-user-hidden.bfi-2"
         required: true
         type: string
       bundle_id:
